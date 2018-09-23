@@ -1,0 +1,7 @@
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\bin\Debug\arrayAndListExercise.exe.config
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\bin\Debug\arrayAndListExercise.exe
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\bin\Debug\arrayAndListExercise.pdb
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\obj\Debug\arrayAndListExercise.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\obj\Debug\arrayAndListExercise.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\obj\Debug\arrayAndListExercise.exe
+C:\Users\Blake\source\repos\arrayAndListExercise\arrayAndListExercise\obj\Debug\arrayAndListExercise.pdb
